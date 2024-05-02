@@ -1,0 +1,7 @@
+node_modules/
+.vscode
+.idea
+.sfdx
+.sf
+.env
+.idea/workspace.xml
